@@ -1,0 +1,14 @@
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Interface Segregation\UsingISP\bin\Debug\net8.0\UsingISP.exe
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Interface Segregation\UsingISP\bin\Debug\net8.0\UsingISP.deps.json
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Interface Segregation\UsingISP\bin\Debug\net8.0\UsingISP.runtimeconfig.json
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Interface Segregation\UsingISP\bin\Debug\net8.0\UsingISP.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Interface Segregation\UsingISP\bin\Debug\net8.0\UsingISP.pdb
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Interface Segregation\UsingISP\obj\Debug\net8.0\UsingISP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Interface Segregation\UsingISP\obj\Debug\net8.0\UsingISP.AssemblyInfoInputs.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Interface Segregation\UsingISP\obj\Debug\net8.0\UsingISP.AssemblyInfo.cs
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Interface Segregation\UsingISP\obj\Debug\net8.0\UsingISP.csproj.CoreCompileInputs.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Interface Segregation\UsingISP\obj\Debug\net8.0\UsingISP.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Interface Segregation\UsingISP\obj\Debug\net8.0\refint\UsingISP.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Interface Segregation\UsingISP\obj\Debug\net8.0\UsingISP.pdb
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Interface Segregation\UsingISP\obj\Debug\net8.0\UsingISP.genruntimeconfig.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Interface Segregation\UsingISP\obj\Debug\net8.0\ref\UsingISP.dll
