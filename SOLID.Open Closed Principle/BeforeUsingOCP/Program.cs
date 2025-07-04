@@ -1,0 +1,14 @@
+﻿using System.Diagnostics.Metrics;
+
+namespace BeforeUsingOCP
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            var quiz = new Quiz(QuestionBank.Generate());
+
+            quiz.Print();
+        }
+    }
+}

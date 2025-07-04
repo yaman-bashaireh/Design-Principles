@@ -1,0 +1,14 @@
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\BeforeUsingOCP\bin\Debug\net8.0\BeforeUsingOCP.exe
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\BeforeUsingOCP\bin\Debug\net8.0\BeforeUsingOCP.deps.json
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\BeforeUsingOCP\bin\Debug\net8.0\BeforeUsingOCP.runtimeconfig.json
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\BeforeUsingOCP\bin\Debug\net8.0\BeforeUsingOCP.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\BeforeUsingOCP\bin\Debug\net8.0\BeforeUsingOCP.pdb
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\BeforeUsingOCP\obj\Debug\net8.0\BeforeUsingOCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\BeforeUsingOCP\obj\Debug\net8.0\BeforeUsingOCP.AssemblyInfoInputs.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\BeforeUsingOCP\obj\Debug\net8.0\BeforeUsingOCP.AssemblyInfo.cs
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\BeforeUsingOCP\obj\Debug\net8.0\BeforeUsingOCP.csproj.CoreCompileInputs.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\BeforeUsingOCP\obj\Debug\net8.0\BeforeUsingOCP.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\BeforeUsingOCP\obj\Debug\net8.0\refint\BeforeUsingOCP.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\BeforeUsingOCP\obj\Debug\net8.0\BeforeUsingOCP.pdb
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\BeforeUsingOCP\obj\Debug\net8.0\BeforeUsingOCP.genruntimeconfig.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\BeforeUsingOCP\obj\Debug\net8.0\ref\BeforeUsingOCP.dll

@@ -1,0 +1,14 @@
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\UsingOCP\bin\Debug\net8.0\UsingOCP.exe
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\UsingOCP\bin\Debug\net8.0\UsingOCP.deps.json
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\UsingOCP\bin\Debug\net8.0\UsingOCP.runtimeconfig.json
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\UsingOCP\bin\Debug\net8.0\UsingOCP.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\UsingOCP\bin\Debug\net8.0\UsingOCP.pdb
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\UsingOCP\obj\Debug\net8.0\UsingOCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\UsingOCP\obj\Debug\net8.0\UsingOCP.AssemblyInfoInputs.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\UsingOCP\obj\Debug\net8.0\UsingOCP.AssemblyInfo.cs
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\UsingOCP\obj\Debug\net8.0\UsingOCP.csproj.CoreCompileInputs.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\UsingOCP\obj\Debug\net8.0\UsingOCP.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\UsingOCP\obj\Debug\net8.0\refint\UsingOCP.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\UsingOCP\obj\Debug\net8.0\UsingOCP.pdb
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\UsingOCP\obj\Debug\net8.0\UsingOCP.genruntimeconfig.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID - Open Closed Principle\UsingOCP\obj\Debug\net8.0\ref\UsingOCP.dll
