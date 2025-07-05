@@ -1,0 +1,14 @@
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Dependency Inversion\BeforeUsingDIP\bin\Debug\net8.0\BeforeUsingDIP.exe
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Dependency Inversion\BeforeUsingDIP\bin\Debug\net8.0\BeforeUsingDIP.deps.json
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Dependency Inversion\BeforeUsingDIP\bin\Debug\net8.0\BeforeUsingDIP.runtimeconfig.json
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Dependency Inversion\BeforeUsingDIP\bin\Debug\net8.0\BeforeUsingDIP.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Dependency Inversion\BeforeUsingDIP\bin\Debug\net8.0\BeforeUsingDIP.pdb
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Dependency Inversion\BeforeUsingDIP\obj\Debug\net8.0\BeforeUsingDIP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Dependency Inversion\BeforeUsingDIP\obj\Debug\net8.0\BeforeUsingDIP.AssemblyInfoInputs.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Dependency Inversion\BeforeUsingDIP\obj\Debug\net8.0\BeforeUsingDIP.AssemblyInfo.cs
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Dependency Inversion\BeforeUsingDIP\obj\Debug\net8.0\BeforeUsingDIP.csproj.CoreCompileInputs.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Dependency Inversion\BeforeUsingDIP\obj\Debug\net8.0\BeforeUsingDIP.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Dependency Inversion\BeforeUsingDIP\obj\Debug\net8.0\refint\BeforeUsingDIP.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Dependency Inversion\BeforeUsingDIP\obj\Debug\net8.0\BeforeUsingDIP.pdb
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Dependency Inversion\BeforeUsingDIP\obj\Debug\net8.0\BeforeUsingDIP.genruntimeconfig.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\SOLID.Dependency Inversion\BeforeUsingDIP\obj\Debug\net8.0\ref\BeforeUsingDIP.dll
