@@ -1,0 +1,14 @@
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Favor Composition Over Inheritance\Using Composition\bin\Debug\net8.0\Using Composition.exe
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Favor Composition Over Inheritance\Using Composition\bin\Debug\net8.0\Using Composition.deps.json
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Favor Composition Over Inheritance\Using Composition\bin\Debug\net8.0\Using Composition.runtimeconfig.json
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Favor Composition Over Inheritance\Using Composition\bin\Debug\net8.0\Using Composition.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Favor Composition Over Inheritance\Using Composition\bin\Debug\net8.0\Using Composition.pdb
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Favor Composition Over Inheritance\Using Composition\obj\Debug\net8.0\Using Composition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Favor Composition Over Inheritance\Using Composition\obj\Debug\net8.0\Using Composition.AssemblyInfoInputs.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Favor Composition Over Inheritance\Using Composition\obj\Debug\net8.0\Using Composition.AssemblyInfo.cs
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Favor Composition Over Inheritance\Using Composition\obj\Debug\net8.0\Using Composition.csproj.CoreCompileInputs.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Favor Composition Over Inheritance\Using Composition\obj\Debug\net8.0\Using Composition.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Favor Composition Over Inheritance\Using Composition\obj\Debug\net8.0\refint\Using Composition.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Favor Composition Over Inheritance\Using Composition\obj\Debug\net8.0\Using Composition.pdb
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Favor Composition Over Inheritance\Using Composition\obj\Debug\net8.0\Using Composition.genruntimeconfig.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Favor Composition Over Inheritance\Using Composition\obj\Debug\net8.0\ref\Using Composition.dll
