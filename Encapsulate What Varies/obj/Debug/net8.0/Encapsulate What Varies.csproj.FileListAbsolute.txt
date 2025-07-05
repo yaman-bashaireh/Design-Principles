@@ -1,0 +1,14 @@
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Encapsulate What Varies\bin\Debug\net8.0\Encapsulate What Varies.exe
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Encapsulate What Varies\bin\Debug\net8.0\Encapsulate What Varies.deps.json
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Encapsulate What Varies\bin\Debug\net8.0\Encapsulate What Varies.runtimeconfig.json
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Encapsulate What Varies\bin\Debug\net8.0\Encapsulate What Varies.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Encapsulate What Varies\bin\Debug\net8.0\Encapsulate What Varies.pdb
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Encapsulate What Varies\obj\Debug\net8.0\Encapsulate What Varies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Encapsulate What Varies\obj\Debug\net8.0\Encapsulate What Varies.AssemblyInfoInputs.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Encapsulate What Varies\obj\Debug\net8.0\Encapsulate What Varies.AssemblyInfo.cs
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Encapsulate What Varies\obj\Debug\net8.0\Encapsulate What Varies.csproj.CoreCompileInputs.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Encapsulate What Varies\obj\Debug\net8.0\Encapsulate What Varies.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Encapsulate What Varies\obj\Debug\net8.0\refint\Encapsulate What Varies.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Encapsulate What Varies\obj\Debug\net8.0\Encapsulate What Varies.pdb
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Encapsulate What Varies\obj\Debug\net8.0\Encapsulate What Varies.genruntimeconfig.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Encapsulate What Varies\obj\Debug\net8.0\ref\Encapsulate What Varies.dll
