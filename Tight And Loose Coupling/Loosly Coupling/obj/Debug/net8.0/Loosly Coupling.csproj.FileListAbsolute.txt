@@ -1,0 +1,14 @@
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Loosly Coupling\bin\Debug\net8.0\Loosly Coupling.exe
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Loosly Coupling\bin\Debug\net8.0\Loosly Coupling.deps.json
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Loosly Coupling\bin\Debug\net8.0\Loosly Coupling.runtimeconfig.json
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Loosly Coupling\bin\Debug\net8.0\Loosly Coupling.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Loosly Coupling\bin\Debug\net8.0\Loosly Coupling.pdb
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Loosly Coupling\obj\Debug\net8.0\Loosly Coupling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Loosly Coupling\obj\Debug\net8.0\Loosly Coupling.AssemblyInfoInputs.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Loosly Coupling\obj\Debug\net8.0\Loosly Coupling.AssemblyInfo.cs
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Loosly Coupling\obj\Debug\net8.0\Loosly Coupling.csproj.CoreCompileInputs.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Loosly Coupling\obj\Debug\net8.0\Loosly Coupling.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Loosly Coupling\obj\Debug\net8.0\refint\Loosly Coupling.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Loosly Coupling\obj\Debug\net8.0\Loosly Coupling.pdb
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Loosly Coupling\obj\Debug\net8.0\Loosly Coupling.genruntimeconfig.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Loosly Coupling\obj\Debug\net8.0\ref\Loosly Coupling.dll

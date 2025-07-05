@@ -1,0 +1,14 @@
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Tightly Coupling\bin\Debug\net8.0\Tightly Coupling.exe
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Tightly Coupling\bin\Debug\net8.0\Tightly Coupling.deps.json
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Tightly Coupling\bin\Debug\net8.0\Tightly Coupling.runtimeconfig.json
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Tightly Coupling\bin\Debug\net8.0\Tightly Coupling.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Tightly Coupling\bin\Debug\net8.0\Tightly Coupling.pdb
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Tightly Coupling\obj\Debug\net8.0\Tightly Coupling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Tightly Coupling\obj\Debug\net8.0\Tightly Coupling.AssemblyInfoInputs.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Tightly Coupling\obj\Debug\net8.0\Tightly Coupling.AssemblyInfo.cs
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Tightly Coupling\obj\Debug\net8.0\Tightly Coupling.csproj.CoreCompileInputs.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Tightly Coupling\obj\Debug\net8.0\Tightly Coupling.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Tightly Coupling\obj\Debug\net8.0\refint\Tightly Coupling.dll
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Tightly Coupling\obj\Debug\net8.0\Tightly Coupling.pdb
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Tightly Coupling\obj\Debug\net8.0\Tightly Coupling.genruntimeconfig.cache
+C:\Users\Yaman\OneDrive\Desktop\Solid PrInciples\Tight And Loose Coupling\Tightly Coupling\obj\Debug\net8.0\ref\Tightly Coupling.dll
